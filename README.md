@@ -1,4 +1,6 @@
 # Student Database Management System (SDMS)
+markdown 
+   [Figma Link](https://www.figma.com/proto/tCAsJ9WnzgLOavWSBQ2eCP/Sweeety-exams's-team-library?node-id=3318-73&t=W9KLdWFTto3grg1q-1) 
 
 ## Project Overview
 
